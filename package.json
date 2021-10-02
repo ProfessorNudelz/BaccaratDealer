@@ -1,0 +1,11 @@
+{
+  "name": "BaccaratDealer",
+  "version": "1.0.0",
+  "description": "A program to similate a baccarat dealer",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21"
+  }
+}
